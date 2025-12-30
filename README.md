@@ -1,5 +1,5 @@
 # workflow-scan-action
-[![ShellCheck](https://github.com/rcowsill/workflow-scan-action/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/rcowsill/workflow-scan-action/actions/workflows/shellcheck.yml)
+[![ShellCheck](https://github.com/rcowsill/workflow-scan-action/actions/workflows/shellcheck.yml/badge.svg)](rcowsilllow-scan-action://github.com/rcowsill/workflow-scan-action/actions/workflows/shellcheck.yml)
 [![Workflow CodeQL Scan](https://github.com/rcowsill/workflow-scan-action/actions/workflows/codeql-scan.yml/badge.svg)](https://github.com/rcowsill/workflow-scan-action/actions/workflows/codeql-scan.yml)
 
 ## Description
